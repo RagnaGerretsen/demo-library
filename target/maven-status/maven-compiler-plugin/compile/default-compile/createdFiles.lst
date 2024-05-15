@@ -1,0 +1,9 @@
+demo/library/drink/api/DrinkApiClient.class
+demo/library/oauth/OAuth2Configuration.class
+demo/library/client/config/drink/ClientConfiguration.class
+demo/library/domain/DrinkType.class
+demo/library/domain/CreatedDrink.class
+demo/library/drink/api/DrinkApi.class
+demo/library/oauth/AzureAdOAuth2Properties.class
+demo/library/oauth/OAuth2ClientCredentialGrant.class
+demo/library/oauth/OAuthClientRequestInterceptor.class
